@@ -10,4 +10,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepilhanli&show_icons=true&locale=en" alt="recepilhanli" /></p>
 
-<a href='https://armut.com/hizmetveren/recep-ilhanli-istanbul-sultangazi-oyun-gelistirme_60698982'> Recep İLHANLI İstanbul Sultangazi Oyun Geliştirme - Armut  </a>
