@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Recep</h1>
-<h3 align="center">A Passionate Software & Game Developer From Turkey</h3>
+<h3 align="center">Software & Game Developer</h3>
 
 <p align="center">
 </p>
